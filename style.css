@@ -203,6 +203,10 @@ html{
     font-family: Montserrat;
 
 }
+a{
+    text-decoration:none;
+}
+
 
 .project1 img{
     width: 70px;
