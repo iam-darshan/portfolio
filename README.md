@@ -2,7 +2,7 @@
 
 Welcome to my **Portfolio Website**! This is a **clean, responsive, and minimalistic** portfolio built with **HTML & CSS**, designed to showcase my skills, projects, and contact details.  
 
-🔗 **Live Demo:** https://darshan-ds-dev.github.io/portfolio/
+🔗 **Live Demo:** https://iam-darshan.github.io/portfolio/
 
 ---
 
